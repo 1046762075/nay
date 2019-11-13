@@ -1,0 +1,76 @@
+2019-11-13 18:31:26,250 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nay.1:FindFriends:0.0.1-SNAPSHOT @ E:\Program Files (x86)\JAVA\javaeclipse\Work\FindFriends\pom.xml.
+2019-11-13 18:31:29,692 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:31:29,696 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:31:29,698 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:31:29,699 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:31:29,854 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-13 18:31:30,846 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nay.1:FindFriends:0.0.1-SNAPSHOT @ E:\Program Files (x86)\JAVA\javaeclipse\Work\FindFriends\pom.xml.
+2019-11-13 18:31:31,343 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nay:HDFS-0:0.0.1-SNAPSHOT @ E:\Program Files (x86)\JAVA\javaeclipse\Work\HDFS-0\pom.xml.
+2019-11-13 18:31:31,823 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13-beta-3/junit-4.13-beta-3.jar
+2019-11-13 18:31:51,953 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13-beta-3/junit-4.13-beta-3.jar
+2019-11-13 18:32:20,486 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nay:mr-01:0.0.1-SNAPSHOT @ E:\Program Files (x86)\JAVA\javaeclipse\Work\mr-01\pom.xml.
+2019-11-13 18:32:21,597 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FindFriends/src/main/java
+2019-11-13 18:32:21,597 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FindFriends/src/main/resources
+2019-11-13 18:32:21,598 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FindFriends/src/test/java
+2019-11-13 18:32:21,598 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FindFriends/src/test/resources
+2019-11-13 18:32:21,843 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HDFS-0/src/main/java
+2019-11-13 18:32:21,844 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HDFS-0/src/main/resources
+2019-11-13 18:32:21,845 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HDFS-0/src/test/java
+2019-11-13 18:32:21,845 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HDFS-0/src/test/resources
+2019-11-13 18:32:21,943 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mr-01/src/main/java
+2019-11-13 18:32:21,943 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mr-01/src/main/resources
+2019-11-13 18:32:21,944 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mr-01/src/test/java
+2019-11-13 18:32:21,944 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mr-01/src/test/resources
+2019-11-13 18:32:22,718 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 52 sec
+2019-11-13 18:32:24,268 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:32:24,271 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:32:24,274 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:32:24,276 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:32:25,910 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:32:25,911 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:32:25,930 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:32:25,931 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:32:27,633 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:32:27,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:32:27,642 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:32:27,644 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:32:29,065 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pachong:spider:0.0.1-SNAPSHOT @ E:\Program Files (x86)\JAVA\javaeclipse\Work\spider\pom.xml.
+2019-11-13 18:32:39,532 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:32:39,532 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Program Files (x86)\JAVA\javaeclipse\Work\spider\src\main\resources
+2019-11-13 18:32:39,533 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:32:39,533 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Program Files (x86)\JAVA\javaeclipse\Work\spider\src\test\resources
+2019-11-13 18:32:41,168 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:32:41,168 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Program Files (x86)\JAVA\javaeclipse\Work\spider\src\main\resources
+2019-11-13 18:32:41,169 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-11-13 18:32:41,169 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Program Files (x86)\JAVA\javaeclipse\Work\spider\src\test\resources
+2019-11-13 18:33:16,594 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-13 18:33:17,040 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nay:mr-01:0.0.1-SNAPSHOT @ E:\Program Files (x86)\JAVA\javaeclipse\Work\mr-01\pom.xml.
+2019-11-13 18:33:17,455 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mr-01/src/main/java
+2019-11-13 18:33:17,455 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mr-01/src/main/resources
+2019-11-13 18:33:17,456 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mr-01/src/test/java
+2019-11-13 18:33:17,456 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mr-01/src/test/resources
+2019-11-13 18:33:18,631 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-11-13 18:33:19,109 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:33:19,111 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:33:19,114 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:33:19,115 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:34:22,311 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-11-13 18:34:22,427 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nay.1:FindFriends:0.0.1-SNAPSHOT @ E:\Program Files (x86)\JAVA\javaeclipse\Work\FindFriends\pom.xml.
+2019-11-13 18:34:23,164 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nay:mr-01:0.0.1-SNAPSHOT @ E:\Program Files (x86)\JAVA\javaeclipse\Work\mr-01\pom.xml.
+2019-11-13 18:34:23,446 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FindFriends/src/main/java
+2019-11-13 18:34:23,446 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FindFriends/src/main/resources
+2019-11-13 18:34:23,446 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FindFriends/src/test/java
+2019-11-13 18:34:23,446 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FindFriends/src/test/resources
+2019-11-13 18:34:23,490 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mr-01/src/main/java
+2019-11-13 18:34:23,490 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mr-01/src/main/resources
+2019-11-13 18:34:23,491 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /mr-01/src/test/java
+2019-11-13 18:34:23,491 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /mr-01/src/test/resources
+2019-11-13 18:34:23,661 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-11-13 18:34:24,053 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:34:24,054 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:34:24,055 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:34:24,055 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-11-13 18:34:24,977 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:34:24,978 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-11-13 18:34:25,008 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2019-11-13 18:34:25,008 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

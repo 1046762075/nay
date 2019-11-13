@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.nay.util.asd.java&apos; to &apos;EnvironmentVariables.java&apos;&#x0D;&#x0A;- Original project: &apos;Github&apos;&#x0D;&#x0A;- Original element: &apos;com.nay.util.asd.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.nay.util.EnvironmentVariables.java&apos;" description="Rename compilation unit &apos;asd.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.nay.util{asd.java" name="EnvironmentVariables.java" references="false" stamp="1573641585285" version="1.0"/>
+</session>
